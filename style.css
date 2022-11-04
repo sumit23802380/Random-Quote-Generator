@@ -1,0 +1,30 @@
+*{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+}
+#header{
+    height: 90%;
+}
+#quote{
+    color: orange;
+    font-size: 100px;
+    height: 600px;
+    text-align: center;
+}
+#author{
+    color: white;
+    font-size: 60px;
+    float: right;
+    margin-right: 5px;
+}
+#btn{
+    color: white;
+    border-radius: 2;
+    text-align: center;
+    border-color: orange;
+    font-size: large;
+    height: 50px;
+    width: 100%;
+    align-items: center;
+}
